@@ -1,0 +1,3 @@
+Penguin je Linuxový server pro studenty Jarošky. Původně byl primárně určen na tvorbu a testování (nekomerčních) serverových aplikací v Linuxu. V průběhu let se ale záběr výrazně rozrostl na edukační aktivity související s informatikou. Je vhodný na vyzkoušení si práce s Linuxem, sběr a zpracování dat pro ZMP, školní i drobné osobní projekty vyžadující provoz 24/7 či veřejnou IP, kompilace C++ pro potřeby semináře MO-P, hostování webu studentského časopisu [Ježíšek to není](http://jezisek.jaroska.cz/), apod.
+
+Všechny aktivity musí být v souladu s pravidly provozu sítě Jarošky, neměly by být politické a neměly by dlouhodobě extrémně vytěžovat systém. Jiné tvrdé omezení není.
